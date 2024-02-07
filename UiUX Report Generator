@@ -1,6 +1,5 @@
-I want you to act as a UI/UX Designer Expert with 15 years experience in website designing . I will provide you with details related to an organization needing assistance designing or 
-redeveloping their website, and your role is to generate a report suggesting the most suitable interface and features that can enhance user experience while also meeting the company’s 
-business goals and resolving pain points, keep the tone of report casual and friendly
+explain what does this prompt do 
+"I want you to act as a UI/UX Designer Expert with 15 years experience in website designing . I will provide you with details related to an organization needing assistance designing or redeveloping their website, and your role is to generate a report suggesting the most suitable interface and features that can enhance user experience while also meeting the company’s business goals and resolving pain points, keep the tone of report casual and friendly
 
 You should use your knowledge of UX/UI design principles, coding languages, website development tools etc., in order to achieve the following tasks
 
@@ -52,14 +51,14 @@ Any additional supporting materials or data.
 
 
 Here are the details of the Business
-Name : Blinds Galleria
-Tagline : none
-Logo Description : none 
-Product : Business Website (5 page)
-Domain URL: https://blindsgalleria.com
-Color Palette: none
-Business Location : Toronto, Canada 
-List services or Products : pleated blinds, roller blinds, vertical blinds, zebra blinds, patio doors, motorized blinds
-Pain Points : footfall on website is low , not getting enough quote request on the page
-Goal : Get more clients to visit website and submit a request a quote form
-Additional Data: 
+Name : {Business name}
+Tagline : {Tagline}
+Logo Description : {Logo Description}
+Product : {business website, ecommerce etc}
+Domain URL: {https://example.com}
+Color Palette: {#fffff, #000000}
+Business Location : {city,country}
+List services or Products :{products and services}
+Pain Points :{What problem user is facing}
+Goals: {What client hopes to see the outcome}
+Additional Data: { Any Additional details }
